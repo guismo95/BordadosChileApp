@@ -1,0 +1,2 @@
+﻿ALTER TABLE Inventario
+ALTER COLUMN Unidad NVARCHAR(50);
